@@ -13,3 +13,23 @@ Il à ete conçu pour fonctionner avec
  Remarque: on m afait remarquer que des decompilo ou source src de compilo decompilo pululaient sur le net, un seul marche pour 82 et 83 
  c est le mien. a lediteur hex le fichier generé peu paraitre genetiquement modifié mais il fonctionne ses genes seront reconnus par le systeme TI.
  GoodLuck bon exams ...
+
+/*
+    +------------------------------------------------------------------------+
+    +    Compil et decompil de .tib -> .83p a texas instrument calto system
+    +    Debloquage de l octet de protection sur les codes decompiles. Chut!
+    +     Prog/prj: BolosR    tokens lexer, compil, decompil for ti langage  +
+    +    File Name: Main program. Corps du programme                         +
+      ___
+   __|___|__    +------------------------------------------------------------+
+   c/ .-. \g    ¦  BolosR (Compil & Reverse) for Ti83/stat/.fr               ¦
+  __\( c )/__   ¦  Version publiee sur CS le 18 mars 2016                    ¦
+(_.-/     \-._) ¦  Version publiee sur gitHub le 18 mars 2016                ¦
+    \     /     ¦                                                            ¦
+  _.' ___ '._   ¦  .                                                         ¦
+ (.-./   |.-.)  ¦                             (c) ccgousset@gmail.com 2015   ¦
+  `-'     `-'   +-------- Bon on recolle cette table Alexis ? ---------------+
+    +                                                                        +
+    +------------------------------------------------------------------------+
+*/
+  
